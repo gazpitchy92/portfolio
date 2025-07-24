@@ -14,6 +14,8 @@ const ClientsSection = () => {
         <img src="/clients/ofg.png" alt="Outcomes First Group" />
         <img src="/clients/laf.png" alt="Lowe and Fletcher" />
         <img src="/clients/alertive.png" alt="Alertive" />
+        <img src="/clients/avon.png" alt="Alertive" />
+        <img src="/clients/workshop.png" alt="Alertive" />
       </div>
     </>
   );
