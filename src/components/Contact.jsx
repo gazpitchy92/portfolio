@@ -8,7 +8,8 @@ const ContactSection = () => {
         <span className="client-text">Contact Me</span>
       </h3>
       <section className="intro-text">
-        contact@gpitchford.com
+        <strong>Email - </strong>contact@gpitchford.com<br></br>
+        <strong>Phone - </strong>07435005377
       </section>
     </>
   );
